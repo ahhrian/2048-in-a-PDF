@@ -25,3 +25,6 @@ https://github.com/user-attachments/assets/13f4eedd-000a-4eec-8617-5ea4f217cead
 ---
 
 Enjoy the challenge of 2048 like never before—in a PDF!
+
+## Collaborator Credits
+Special thanks to @nsohko, @itisnotjord, Hao Yang for working with me on this project!
